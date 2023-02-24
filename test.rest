@@ -1,0 +1,9 @@
+http://localhost:3000/findAll
+
+###
+
+http://localhost:3000/findOne/63f0c0242d84955f2236cae9
+
+###
+
+http://localhost:3000/delete/63f0c0242d84955f2236cae9
